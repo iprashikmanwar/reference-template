@@ -12,7 +12,7 @@
    #### Problem:
    Imagine creating a logistics management application while in the first version only supports transportation through Trucks.</br>After some time it need to support transportation through Ships.
    <br>But now as the code is coupled to Trucks class, adding new class to the program isn’t that simple.
-   ![factory-method.png](/image/factory-method.png)
+   ![factory-method](./image/factory-method.png)
     * The Factory Method pattern suggests replace
         - direct object construction calls(using the new operator) with
         - calls to a special factory method.
