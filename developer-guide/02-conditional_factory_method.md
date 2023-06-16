@@ -1,6 +1,6 @@
 <table>
     <tr>
-        <td><a href="/01-overview.md">Home</a>
+        <td><a href="01-overview.md">Home</a>
         <td>
     </tr>
 </table>
