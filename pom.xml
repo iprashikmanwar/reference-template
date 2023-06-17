@@ -16,7 +16,8 @@
 	<description>Demo project with example of design patterns</description>
     <modules>
         <module>factory-method</module>
-    </modules>
+		<module>abstract-factory</module>
+	</modules>
     <properties>
 		<java.version>17</java.version>
 	</properties>
