@@ -1,6 +1,8 @@
 <table>
     <tr>
         <td><a href="01-overview.md">Home</a>
+        <td><a href="02-conditional_factory_method.md">Prev</a>
+        <td><a href="04-conditional_builder.md">Next</a>
     </tr>
 </table>
 
